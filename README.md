@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="170" src="https://i.ibb.co/NjLDpW0/Screenshot-2024-05-08-194044.png"  />
+  <img height="170" src="https://i.ibb.co/Y3ytWR8/Screenshot-2024-05-08-194044.png"  />
 </div>
 
 ###
@@ -8,7 +8,9 @@
   <a href="https://www.facebook.com/profile.php?id=100042040659312" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/mohamed-ashraf-984a03248/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
   <a href="mailto:www.mohamedashraf3333@hotmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
